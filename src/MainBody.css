@@ -1,0 +1,28 @@
+
+.main-body-container {
+
+    /* display:none; */
+    /* position: inherit; */
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+
+.main-body-text-container {
+    /* position: inherit; */
+    /* left:'inherit'; */
+}
+
+.button-container{
+    /* position: inherit; */
+    left:'inherit';
+}
+
+
+.card-container{
+
+    top: 40px;
+
+}
