@@ -166,7 +166,10 @@ MODULE DESCRIPTION:
 
 **Profile Page:**                   Profile Management and user details
 
-**Settings Page:**                 Customizable settings for application **Magnetic Links Page:**    Sources to get magnetic links
+**Settings Page:**                 Customizable settings for application 
+
+**Magnetic Links Page:**    Sources to get magnetic links
+
 
 **Login Page:**
 
@@ -179,7 +182,6 @@ MODULE DESCRIPTION:
 
 
 ![](Aspose.Words.5a18d6be-6c4b-4e9b-bfaf-a1b46cb58113.004.jpeg)
-
 
 
 **Downloads Page:**
@@ -201,6 +203,7 @@ MODULE DESCRIPTION:
 **Magnetic Links :**
 
 ![](Aspose.Words.5a18d6be-6c4b-4e9b-bfaf-a1b46cb58113.009.jpeg)
+
 # **CONCLUSION**
 In this paper, downloading torrent file is performed. Using this web app we can download and see streaming of the videos. This project is helps the user to download and streaming through web application “Torrent Power” which is lightweight one and doesn’t need any extra setup to use it. Thus it became the best alternative for all other torrent platforms avail in market.
 # **FUTURE ENHANCEMENT**
